@@ -1,0 +1,21 @@
+{
+  "name": "swap-functionality",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "manali chahande",
+  "license": "ISC",
+  "dependencies": {
+    "coingecko-api": "^1.0.10",
+    "dotenv": "^10.0.0",
+    "ethereumjs-tx": "^2.1.2",
+    "express": "^4.17.2",
+    "mongoose": "^6.1.5",
+    "request-promise": "^4.2.6",
+    "tronweb": "^4.0.1",
+    "web3": "^1.6.1"
+  }
+}
